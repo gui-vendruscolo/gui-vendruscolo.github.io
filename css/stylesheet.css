@@ -1,0 +1,71 @@
+
+*
+{
+    box-sizing: border-box;
+}
+
+.intro-text
+{
+    padding: 30px;
+    width: 50%;
+    float: left;
+    border: 10px solid yellow;
+}
+
+.me-pic
+{
+    padding-left: 120px;
+    padding-top: 50px;
+    width: 50%;
+    float: left;
+    /* border: 10px solid red; */
+}
+
+h1
+{
+    color: white;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 400;
+    font-size: 2.8em;
+}
+
+h2
+{
+    color: white;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 400;
+    font-size: 2.8em;
+}
+
+p
+{
+    color: white;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 300;
+    font-size: 1.8em;
+}
+
+body 
+{
+    background-color: black;
+}
+
+#usp-link
+{
+    text-decoration: none;
+    color: green;
+}
+#usp-link:hover
+{
+    color: darkgreen;
+}
+
+#email
+{
+    text-decoration: none;
+    color: green;
+}
+#email:hover
+{
+    color: darkgreen;
+}
