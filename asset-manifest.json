@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.83c7d7e8.css",
+    "main.js": "/static/js/main.9cd18fce.js",
+    "static/js/787.1d5e114e.chunk.js": "/static/js/787.1d5e114e.chunk.js",
+    "static/media/guilherme.png": "/static/media/guilherme.4c7e2062977cc5a28e84.png",
+    "static/media/guilhermev-resume-en.pdf": "/static/media/guilhermev-resume-en.d7fa521c77ae6432bc5d.pdf",
+    "static/media/resume-guilhermev-pt.pdf": "/static/media/resume-guilhermev-pt.73696c6bf3599cf672ae.pdf",
+    "index.html": "/index.html",
+    "main.83c7d7e8.css.map": "/static/css/main.83c7d7e8.css.map",
+    "main.9cd18fce.js.map": "/static/js/main.9cd18fce.js.map",
+    "787.1d5e114e.chunk.js.map": "/static/js/787.1d5e114e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83c7d7e8.css",
+    "static/js/main.9cd18fce.js"
+  ]
+}
