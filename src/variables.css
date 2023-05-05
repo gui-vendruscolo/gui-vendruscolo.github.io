@@ -1,0 +1,15 @@
+:root{
+    --main-bg-color: white;
+    
+    --main-font-color: black;
+    
+    --main-link-color: cornflowerblue;
+    --secondary-link-color: rgb(100, 120, 237);
+
+    --main-icon-color: black;
+    --secondary-icon-color: rgb(44, 44, 44);
+
+    --container-color: black;
+
+    --std-font-family: 'Inter' sans-serif;
+}

@@ -1,0 +1,51 @@
+@import url('../../variables.css');
+
+.buttonContainer{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    align-self: center;
+    
+    min-width: 60px;
+    max-width: 6vw;
+    margin-top: 2vh;
+    margin-bottom: 10px;
+
+
+    border: solid 2px var(--main-font-color);
+    border-radius: 5px;
+
+    font-family: var(--std-font-family);
+    font-weight: 500;
+}
+
+.buttonContainer button{
+    background-color: var(--main-bg-color);
+    color: var(--main-font-color);
+    transition: 0.3s;
+    font-size: calc(5px + 0.8vw);
+    
+    padding:1vh 1vw;
+    border: 0;
+
+    display: flex;
+    justify-content: center;
+}
+.buttonContainer button:hover{
+    cursor: pointer;
+    filter: brightness(90%);
+}
+
+.buttonContainer .selectedButton{
+    background-color: var(--main-font-color);
+    color: var(--main-bg-color);
+    transition: 0.3s;
+    border: 0;
+
+    position: relative;
+}
+.buttonContainer .unselectedButton{
+    border-radius: 5px;
+}
+
+
+
